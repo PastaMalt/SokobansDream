@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "D:\\\u00D6zg\u00FCn\\GitHub\\SokobansDream\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{23C2E7EA-AAC5-456A-0A23-6AF74399DA14}|Assembly-CSharp.csproj|d:\\\u00F6zg\u00FCn\\github\\sokobansdream\\assets\\scripts\\charactercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23C2E7EA-AAC5-456A-0A23-6AF74399DA14}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\charactercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{23C2E7EA-AAC5-456A-0A23-6AF74399DA14}|Assembly-CSharp.csproj|d:\\\u00F6zg\u00FCn\\github\\sokobansdream\\assets\\winscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C2E7EA-AAC5-456A-0A23-6AF74399DA14}|Assembly-CSharp.csproj|solutionrelative:assets\\winscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C2E7EA-AAC5-456A-0A23-6AF74399DA14}|Assembly-CSharp.csproj|d:\\\u00F6zg\u00FCn\\github\\sokobansdream\\assets\\levelrestart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C2E7EA-AAC5-456A-0A23-6AF74399DA14}|Assembly-CSharp.csproj|solutionrelative:assets\\levelrestart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{23C2E7EA-AAC5-456A-0A23-6AF74399DA14}|Assembly-CSharp.csproj|D:\\\u00D6zg\u00FCn\\GitHub\\SokobansDream\\assets\\scripts\\backgroundscroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23C2E7EA-AAC5-456A-0A23-6AF74399DA14}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\backgroundscroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C2E7EA-AAC5-456A-0A23-6AF74399DA14}|Assembly-CSharp.csproj|D:\\\u00D6zg\u00FCn\\GitHub\\SokobansDream\\assets\\scripts\\charactercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C2E7EA-AAC5-456A-0A23-6AF74399DA14}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\charactercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C2E7EA-AAC5-456A-0A23-6AF74399DA14}|Assembly-CSharp.csproj|D:\\\u00D6zg\u00FCn\\GitHub\\SokobansDream\\assets\\scripts\\collectible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C2E7EA-AAC5-456A-0A23-6AF74399DA14}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collectible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,25 +35,62 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CharacterController.cs",
-              "DocumentMoniker": "D:\\\u00D6zg\u00FCn\\GitHub\\SokobansDream\\Assets\\Scripts\\CharacterController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\CharacterController.cs",
-              "ToolTip": "D:\\\u00D6zg\u00FCn\\GitHub\\SokobansDream\\Assets\\Scripts\\CharacterController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\CharacterController.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAowAkAAAAGAAAA",
+              "Title": "winScene.cs",
+              "DocumentMoniker": "D:\\\u00D6zg\u00FCn\\GitHub\\SokobansDream\\Assets\\winScene.cs",
+              "RelativeDocumentMoniker": "Assets\\winScene.cs",
+              "ToolTip": "D:\\\u00D6zg\u00FCn\\GitHub\\SokobansDream\\Assets\\winScene.cs",
+              "RelativeToolTip": "Assets\\winScene.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T12:28:28.493Z",
+              "WhenOpened": "2024-06-02T19:47:56.657Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "levelRestart.cs",
+              "DocumentMoniker": "D:\\\u00D6zg\u00FCn\\GitHub\\SokobansDream\\Assets\\levelRestart.cs",
+              "RelativeDocumentMoniker": "Assets\\levelRestart.cs",
+              "ToolTip": "D:\\\u00D6zg\u00FCn\\GitHub\\SokobansDream\\Assets\\levelRestart.cs",
+              "RelativeToolTip": "Assets\\levelRestart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T19:23:22.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Collectible.cs",
+              "DocumentMoniker": "D:\\\u00D6zg\u00FCn\\GitHub\\SokobansDream\\Assets\\Scripts\\Collectible.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Collectible.cs",
+              "ToolTip": "D:\\\u00D6zg\u00FCn\\GitHub\\SokobansDream\\Assets\\Scripts\\Collectible.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Collectible.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T18:32:22.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CharacterController.cs",
+              "DocumentMoniker": "D:\\\u00D6zg\u00FCn\\GitHub\\SokobansDream\\Assets\\Scripts\\CharacterController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CharacterController.cs",
+              "ToolTip": "D:\\\u00D6zg\u00FCn\\GitHub\\SokobansDream\\Assets\\Scripts\\CharacterController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CharacterController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAqwBwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T12:28:28.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "BackgroundScroller.cs",
               "DocumentMoniker": "D:\\\u00D6zg\u00FCn\\GitHub\\SokobansDream\\Assets\\Scripts\\BackgroundScroller.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BackgroundScroller.cs",
               "ToolTip": "D:\\\u00D6zg\u00FCn\\GitHub\\SokobansDream\\Assets\\Scripts\\BackgroundScroller.cs",
               "RelativeToolTip": "Assets\\Scripts\\BackgroundScroller.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCcAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-29T17:23:00.971Z"
             }
