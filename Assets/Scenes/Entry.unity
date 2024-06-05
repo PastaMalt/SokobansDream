@@ -633,6 +633,7 @@ GameObject:
   - component: {fileID: 1545974923}
   - component: {fileID: 1545974922}
   - component: {fileID: 1545974921}
+  - component: {fileID: 1545974924}
   m_Layer: 5
   m_Name: Button
   m_TagString: Untagged
@@ -703,7 +704,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1545974922}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1545974924}
+        m_TargetAssemblyTypeName: winScene, Assembly-CSharp
+        m_MethodName: next
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1545974922
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -742,6 +755,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1545974919}
   m_CullTransparentMesh: 1
+--- !u!114 &1545974924
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1545974919}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22b5acf8a650f2a45a99641278f59a1c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2037661579
 GameObject:
   m_ObjectHideFlags: 0

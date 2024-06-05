@@ -18,7 +18,7 @@ public class BackgroundScroller : MonoBehaviour
         SpriteRenderer spriteRenderer = GetComponent<SpriteRenderer>();
         backgroundWidth = spriteRenderer.bounds.size.x;
 
-        LoadBackground();
+      
     }
 
     void Update()
@@ -26,15 +26,8 @@ public class BackgroundScroller : MonoBehaviour
         float newPosition = Mathf.Repeat(Time.time * scrollSpeed, backgroundWidth * 2);
         transform.position = startPosition + Vector2.left * newPosition;
 
-        if (transform.position.x <= startPosition.x - backgroundWidth) 
-        {
-            currentIndex = (currentIndex + 1) % backgrounds.Length;
-            LoadBackground();
-        }
+       
     }
 
-    void LoadBackground()
-    {
-        GetComponent<SpriteRenderer>().sprite = backgrounds[currentIndex];
-    }
+   
 }
