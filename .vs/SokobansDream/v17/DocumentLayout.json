@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "H:\\\u00D6yk\u00FC\\Github Repo\\SokobansDream\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{23C2E7EA-AAC5-456A-0A23-6AF74399DA14}|Assembly-CSharp.csproj|H:\\\u00D6yk\u00FC\\Github Repo\\SokobansDream\\assets\\scripts\\backgroundscroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23C2E7EA-AAC5-456A-0A23-6AF74399DA14}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\backgroundscroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{23C2E7EA-AAC5-456A-0A23-6AF74399DA14}|Assembly-CSharp.csproj|H:\\\u00D6yk\u00FC\\Github Repo\\SokobansDream\\assets\\scripts\\winscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C2E7EA-AAC5-456A-0A23-6AF74399DA14}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\winscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23C2E7EA-AAC5-456A-0A23-6AF74399DA14}|Assembly-CSharp.csproj|h:\\\u00F6yk\u00FC\\github repo\\sokobansdream\\assets\\scripts\\winscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23C2E7EA-AAC5-456A-0A23-6AF74399DA14}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\winscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{23C2E7EA-AAC5-456A-0A23-6AF74399DA14}|Assembly-CSharp.csproj|h:\\\u00F6yk\u00FC\\github repo\\sokobansdream\\assets\\scripts\\backgroundscroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C2E7EA-AAC5-456A-0A23-6AF74399DA14}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\backgroundscroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\\u00D6yk\u00FC\\Github Repo\\SokobansDream\\Assets\\winScene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,17 +34,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "winScene.cs",
               "DocumentMoniker": "H:\\\u00D6yk\u00FC\\Github Repo\\SokobansDream\\Assets\\Scripts\\winScene.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\winScene.cs",
               "ToolTip": "H:\\\u00D6yk\u00FC\\Github Repo\\SokobansDream\\Assets\\Scripts\\winScene.cs",
               "RelativeToolTip": "Assets\\Scripts\\winScene.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-05T11:59:44.245Z",
               "EditorCaption": ""
@@ -98,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "BackgroundScroller.cs",
               "DocumentMoniker": "H:\\\u00D6yk\u00FC\\Github Repo\\SokobansDream\\Assets\\Scripts\\BackgroundScroller.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BackgroundScroller.cs",
